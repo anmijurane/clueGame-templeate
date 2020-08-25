@@ -1,0 +1,17 @@
+{
+  "name": "cluegame",
+  "version": "1.0.0",
+  "description": "this is a template for game clue",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Clue",
+    "Game",
+    "npm",
+    "js"
+  ],
+  "author": "Andres Jurado <anmijurane@gmail.com>",
+  "license": "ISC"
+}
