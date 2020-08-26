@@ -1,0 +1,29 @@
+* { 
+    margin: 0px;        
+    background-color: #d38e4d;
+}
+
+.container {
+    border: 1px solid white;
+    width: max-content;  
+}
+
+input {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+table tr th {
+    border: 1px solid white;
+}
+
+.table--item {
+    width: 230px;
+}
+
+.table--header {
+    font-size: 30px;
+    width: 273px;
+    text-align: center;
+    border: 1px solid white;
+}
