@@ -1,11 +1,17 @@
 * { 
     margin: 0px;        
-    background-color: #d38e4d;
+    background-color: #d38e4d;    
+}
+
+body {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
 }
 
 .container {
-    border: 1px solid white;
-    width: max-content;  
+    border: 1px solid white;    
 }
 
 input {
