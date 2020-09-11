@@ -1,6 +1,6 @@
-* { 
-    margin: 0px;        
-    background-color: #d38e4d;    
+* {
+    margin: 0px;
+    background-color: #d38e4d;
 }
 
 body {
@@ -11,7 +11,7 @@ body {
 }
 
 .container {
-    border: 1px solid white;    
+    border: 1px solid white;
 }
 
 input {
